@@ -1,16 +1,22 @@
-## Ello there mate <img src="https://img.icons8.com/doodle/48/000000/hello--v1.png"/>
+## Ello there mate! <img src="https://img.icons8.com/doodle/48/000000/hello--v1.png"/>
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" />
 </br></br>
 
-#### I'm Akanksha! I work as a software developer in NI pvt ltd:
+#### I'm Akanksha! I work as a software developer at NI pvt ltd:
 - Graduate from PES University.
 - Cloud Computing and Big Data intern at PES Univerity
 - Research intern at SUNY Binghamton, New York
 - Staying in Namma Bengaluru 
 - From Namma Udupi
 
-### My Stats:</br>
+</br></br>
+<span>
+  <img align="left" src="https://img.icons8.com/clouds/70/000000/laptop.png" />
+  ### My Github Stats:</br>
+</span>
+
+</br>
 <p>
 <a href="https://github.com/AkankshaSomayaji">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaSomayaji&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
@@ -21,22 +27,22 @@
 </br>
 
  <a href="https://twitter.com/Akankshasomayji">
-  <img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/doodle/48/4a90e2/twitter--v1.png" />
+  <img align="left" alt="Twitter" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" />
 </a>
 <a href="https://www.linkedin.com/in/akanksha-somayaji-391986128/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/4a90e2/linkedin--v2.png" />
+  <img align="left" alt="LinkedIn" src="https://img.icons8.com/doodle/48/4a90e2/linkedin--v2.png" />
 </a>
 <a href="https://github.com/AkankshaSomayaji">
-  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/doodle/48/4a90e2/github.png" />
+  <img align="left" alt="Github" src="https://img.icons8.com/doodle/48/4a90e2/github.png" />
 </a>
 <a href="https://www.instagram.com/akankshasomayaji/">
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/doodle/48/4a90e2/instagram-new.png" />
+  <img align="left" alt="Instagram" src="https://img.icons8.com/doodle/48/4a90e2/instagram-new.png" />
 </a>
 <a href="https://www.facebook.com/ganeshsomayaji.ganesh">
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/doodle/48/4a90e2/facebook-new.png" />
+  <img align="left" alt="Facebook" src="https://img.icons8.com/doodle/48/4a90e2/facebook-new.png" />
 </a>
 <a href="https://www.hackerrank.com/Akankshasomayaji">
-  <img align="left" alt="Hackerrank" width="22px" src="https://img.icons8.com/windows/32/4a90e2/hackerrank.png" />
+  <img align="left" alt="Hackerrank" src="https://img.icons8.com/windows/48/4a90e2/hackerrank.png" />
 </a>
 <br><br>
 
