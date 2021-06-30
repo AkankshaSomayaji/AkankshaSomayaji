@@ -1,12 +1,12 @@
-## Ello there mate! <img src="https://img.icons8.com/doodle/48/000000/hello--v1.png"/>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2788B3&width=180&lines=Ello+there+mate!)](https://git.io/typing-svg) <img src="https://img.icons8.com/doodle/48/000000/hello--v1.png"/>
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" />
 </br></br>
 
 #### I'm Akanksha! I work as a Software Engineer at NI Pvt ltd:
 - Graduate from PES University.
-- Cloud Computing and Big Data intern at PES Univerity
-- Research intern at SUNY Binghamton, New York
+- Former Research intern at SUNY Binghamton, New York.
+- Former Cloud Computing and Big Data intern at PES University.
 
 </br></br>
 <span>
