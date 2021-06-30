@@ -3,7 +3,7 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" />
 </br></br>
 
-#### I'm Akanksha! I work as a Software Engineer at NI pvt ltd:
+#### I'm Akanksha! I work as a Software Engineer at NI Pvt ltd:
 - Graduate from PES University.
 - Cloud Computing and Big Data intern at PES Univerity
 - Research intern at SUNY Binghamton, New York
