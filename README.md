@@ -7,8 +7,6 @@
 - Graduate from PES University.
 - Cloud Computing and Big Data intern at PES Univerity
 - Research intern at SUNY Binghamton, New York
-- Staying in Namma Bengaluru 
-- From Namma Udupi
 
 </br></br>
 <span>
