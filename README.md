@@ -3,7 +3,8 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" />
 </br></br>
 
-#### I'm Akanksha! I work as a Software Engineer at NI Pvt ltd:
+#### I'm Akanksha! Building 3P marketplace for Jio Platforms(Jiomart, Netmeds, RelianceDigital, Ajio and Tira):
+- Good run as a Software Engineer at NI Pvt ltd
 - Graduate from PES University.
 - Former Research intern at SUNY Binghamton, New York.
 - Former Cloud Computing and Big Data intern at PES University.
